@@ -1,5 +1,4 @@
-### Day 1: 1/3/17
+**Start Day: 1/3/17**
 
-**Today's Progress**: Started and completed Timestamp Microservice project on Free Code Camp.
-
-**Link(s) to work**: [Timestamp Project](http://timestamp-bc.herokuapp.com/)
+### Progress from all days can be seen here:
+https://twitter.com/search?src=typd&q=%23100DaysOfCode%20%40CarnesBeau
